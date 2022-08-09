@@ -2,12 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 July 2022 - To: 07 August 2022
+From: 01 August 2022 - To: 08 August 2022
 
-Emacs Lisp       5 hrs 24 mins   █████████▓░░░░░░░░░░░░░░░   38.40 %
-PHP              5 hrs 11 mins   █████████▒░░░░░░░░░░░░░░░   36.83 %
-Blade Template   1 hr 36 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-Other            44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+PHP              7 hrs 43 mins   ██████████████░░░░░░░░░░░   56.66 %
+Blade Template   2 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
+Emacs Lisp       2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+Bash             36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Other            29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->
