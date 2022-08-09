@@ -3,7 +3,7 @@ name: DEV Posts
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '25 6 * * *'
     
 jobs:
   update-readme-with-blog:
