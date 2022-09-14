@@ -2,13 +2,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 06 September 2022 - To: 13 September 2022
 
-PHP              15 hrs 28 mins  ██████████████████▒░░░░░░   73.68 %
-Blade Template   4 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   20.25 %
-Emacs Lisp       50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Bash             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Markdown         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+PHP              15 hrs 20 mins  ███████████████████▒░░░░░   76.77 %
+Blade Template   3 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
+Emacs Lisp       50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Bash             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Markdown         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+XML              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
