@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 October 2022 - To: 31 October 2022
+From: 25 October 2022 - To: 01 November 2022
 
-PHP              11 hrs 14 mins  ███████████████████████▒░   93.15 %
-Blade Template   48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+PHP              9 hrs 17 mins   ██████████████████████▓░░   90.92 %
+Blade Template   49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Bash             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 Emacs Lisp       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
