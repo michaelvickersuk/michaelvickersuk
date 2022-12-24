@@ -2,11 +2,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 21 December 2022
+From: 16 December 2022 - To: 22 December 2022
 
-PHP              13 hrs 5 mins   ███████████████████████░░   92.38 %
-Blade Template   54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-JavaScript       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+PHP              16 hrs 8 mins   ████████████████████████░   96.60 %
+Blade Template   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
