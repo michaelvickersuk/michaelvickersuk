@@ -2,10 +2,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 05 February 2023
+From: 31 January 2023 - To: 06 February 2023
 
-PHP              11 hrs 16 mins  ██████████████████░░░░░░░   72.58 %
-Other            2 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+PHP              11 hrs 46 mins  ████████████████████░░░░░   79.43 %
+Other            2 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
 ```
 
 <!--END_SECTION:waka-->
