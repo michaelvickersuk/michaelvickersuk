@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2023 - To: 01 April 2023
+From: 26 March 2023 - To: 02 April 2023
 
 PHP              7 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.24 %
 Blade Template   4 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   36.25 %
