@@ -2,10 +2,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 May 2023 - To: 10 May 2023
+From: 04 May 2023 - To: 11 May 2023
 
-PHP              9 hrs 4 mins    ████████████████████▓░░░░   82.71 %
-Blade Template   1 hr 53 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+PHP              9 hrs 25 mins   █████████████████████▓░░░   87.30 %
+Blade Template   1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
 Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
