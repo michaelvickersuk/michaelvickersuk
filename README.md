@@ -2,11 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2023 - To: 23 May 2023
+From: 17 May 2023 - To: 24 May 2023
 
-PHP              6 hrs 37 mins   ██████████████████░░░░░░░   71.91 %
-Blade Template   2 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   27.98 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+PHP              6 hrs 56 mins   █████████████████░░░░░░░░   67.50 %
+Blade Template   2 hrs 47 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
+Other            31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
