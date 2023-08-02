@@ -2,12 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2023 - To: 30 July 2023
+From: 24 July 2023 - To: 31 July 2023
 
-PHP              6 hrs 6 mins    ███████████████████▓░░░░░   78.39 %
-Blade Template   1 hr 21 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
-JavaScript       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Emacs Lisp       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+PHP              8 hrs 6 mins    ██████████████████▒░░░░░░   73.40 %
+Blade Template   2 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
+Bash             29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+JavaScript       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Emacs Lisp       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
