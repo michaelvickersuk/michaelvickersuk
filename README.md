@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-PHP              19 hrs 7 mins   ████████████████████▓░░░░   83.17 %
-Blade Template   3 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-Bash             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+PHP              15 hrs 13 mins  ██████████████████████▒░░   88.80 %
+Blade Template   1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Bash             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
