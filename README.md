@@ -2,13 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 November 2023 - To: 02 December 2023
+From: 28 November 2023 - To: 04 December 2023
 
-PHP                           13 hrs 35 mins  ███████████████████░░░░░░   75.58 %
-Blade Template                2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-Other                         1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Bash                          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Entity Relationship Diagram   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+PHP                           11 hrs 31 mins  ██████████████████▓░░░░░░   74.11 %
+Blade Template                3 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+Other                         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Bash                          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Entity Relationship Diagram   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
