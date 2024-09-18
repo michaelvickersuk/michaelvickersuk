@@ -2,13 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2024 - To: 15 September 2024
+From: 09 September 2024 - To: 16 September 2024
 
-PHP              7 hrs 15 mins   ██████████████████░░░░░░░   72.37 %
-Blade Template   1 hr 49 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
-Other            48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-SQL              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+PHP              10 hrs 27 mins  ██████████████████▓░░░░░░   74.10 %
+Blade Template   1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
+Other            1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+SQL              32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
