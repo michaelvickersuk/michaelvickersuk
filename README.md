@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2025 - To: 05 April 2025
+From: 30 March 2025 - To: 06 April 2025
 
 PHP              8 hrs 20 mins   █████████████████▒░░░░░░░   69.85 %
 Blade Template   2 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
