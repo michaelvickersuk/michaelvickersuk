@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2025 - To: 12 July 2025
+From: 06 July 2025 - To: 13 July 2025
 
 PHP              4 hrs 33 mins   ███████████████▒░░░░░░░░░   61.71 %
 Other            2 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.24 %
