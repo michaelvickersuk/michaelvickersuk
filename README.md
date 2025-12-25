@@ -2,13 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 22 December 2025
+From: 17 December 2025 - To: 23 December 2025
 
-PHP              7 hrs 19 mins   ████████████████████░░░░░   79.55 %
-Blade Template   44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-Other            31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Bash             20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-JSON             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+PHP              9 hrs 52 mins   ██████████████████▒░░░░░░   73.44 %
+Other            1 hr 46 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Blade Template   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+SQL              31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Bash             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
